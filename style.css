@@ -1,0 +1,24 @@
+/* Remove warning feio */
+.stAlert {
+    border-radius: 10px;
+}
+
+/* Deixar botões mais bonitos */
+.stButton button {
+    background-color: #2b72ff;
+    color: white;
+    border-radius: 8px;
+    transition: 0.2s;
+}
+
+.stButton button:hover {
+    background-color: #1d4ed8;
+}
+
+/* Caixa de métricas */
+.metric-container {
+    padding: 10px;
+    border-radius: 12px;
+    background: #f2f4ff;
+    text-align: center;
+}
